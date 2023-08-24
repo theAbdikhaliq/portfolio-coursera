@@ -1,6 +1,6 @@
-# mouseTracker - React Mouse Position Tracker
+# Coursera Portfolio
 
-This is a simple React application that demonstrates how to track and display the mouse position using Higher-Order Components (HOC) in React. It is a part of Advanced React course by Meta staff on Coursera.
+This was the capstone project for my react advanced course on coursera, organised by the meta staff.
 
 ## How to Run
 
@@ -8,13 +8,13 @@ To run the application locally, follow these steps:
 
 1. Clone the repository to your local machine using the following command:
 
-git clone https://github.com/theAbdikhaliq/mouseTracker
+git clone https://github.com/theAbdikhaliq/portfolio-coursera
 
 Copy
 
 2. Navigate to the project directory:
 
-cd mouseTracker
+cd portfolio-coursera
 
 3. Install the dependencies by running the following command:
 
@@ -32,12 +32,15 @@ This command will start the application and automatically open it in your defaul
 
 The application has the following dependencies:
 
-- React
+- react
+- formik
+- yup
 - react-dom
 - react-scripts
-- testing-library/jest-dom
-- testing-library/react
-- testing-library/user-event
+- emotion
+- fortawesome
+- framer-motion
+- testing-library
 
 These dependencies are specified in the `package.json` file and will be installed automatically when you run the `npm install` command.
 
